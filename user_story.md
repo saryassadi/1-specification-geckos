@@ -6,6 +6,10 @@ As a user, I want to see a counter showing the number of consecutive days of hab
 As a user, I want to see the percentage of the goal I accomplished until now, so I know what I need to do to complete the habit.
 As a user, I want to receive digital medal or badge when I hit the milestone, so I can be motivated to maintain my habits.
 
+
+As a user, I want to be notified how those habits are benefiting me.
+
+
 Simon:
 As a user who wants to build habits with friends together, I want to see if my friends are keeping their habits everyday also, so that I can have some extra motivation to keep up the habit too.
 As a user, I want the app to have an actual validation system to check if I actually complete the tasks daily, so that I cannot just get away with not doing the tasks but tricked the app to think that I did.
