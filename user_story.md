@@ -6,8 +6,17 @@ As a user, I want to see a counter showing the number of consecutive days of hab
 As a user, I want to see the percentage of the goal I accomplished until now, so I know what I need to do to complete the habit.
 As a user, I want to receive digital medal or badge when I hit the milestone, so I can be motivated to maintain my habits.
 
+## Murun:
+**As a user**, I want to be notified how those habits are benefiting me.
+As a user, I want to create custom habits beyond the default ones, so I can track what matters to me.
+As a user, I want to choose reminder times for each habit, so notifications fit my schedule.
+As a user, I want to set daily or weekly goals for each habit, so I can control how often I practice them.
+As a user, I want to challenge friends to habit streak competitions, so tracking feels fun.
 
-As a user, I want to be notified how those habits are benefiting me.
+**As a supervisor**, I want to leave comments or encouragement after verifying a habit, so I can motivate the user.
+As a supervisor, I want to leave comments or encouragement after verifying a habit, so I can motivate the user.
+As a supervisor, I want to be notified when a user misses a habit streak, so I can encourage them to get back on track.
+As a supervisor, I want to receive weekly progress reports, so I can track improvement easily.
 
 
 Simon:
