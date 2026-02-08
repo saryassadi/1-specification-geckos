@@ -10,6 +10,8 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 [Tsengelmurun EnkhOnon](https://github.com/murnbn)
 
+[James Zheng](https://github.com/hyperjasm)
+
 [Example Name](https://github.com/example-username)
 
 ## Stakeholders
@@ -46,6 +48,20 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 - Finds it hard to stay objective when a user claims they did a habit.
 - Annoyed by apps that don't separate "My Habits" from "People I Supervise", leading to confusion.
 - Worried about his and his little brother's data privacy when some apps ask for taking photos.
+
+#### Stakeholder 3 (User Type 1):
+> Harvey Li, a 21-year-old college student who sometimes forgot to drink water but want to cultivate the habit of drinking water.
+
+**Goals and Needs**
+- Wants to gradually develop the habits of drinking water through consistent reminder. 
+- Needs an app that helps him to actively drink water regularly for each day. 
+- Wants a system where he and his girlfriend can remind and supervise each other to drink water.
+- Wants reminders that will not distract him during focused periods. 
+
+**Problems and Frustrations**
+- Gets so concentrated on studying that he forgets about water in take during the long studying sessions.
+- Has the problem of converting the thoughts of drinking water into actual actions.
+- finds it hard to track the amount of water he drank during the day and whether it meet the hydration goal.
 
 ## Product Vision Statement
 
