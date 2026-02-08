@@ -10,9 +10,42 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 [Tsengelmurun EnkhOnon](https://github.com/murnbn)
 
+[Example Name](https://github.com/example-username)
+
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+
+#### Stakeholder 1 (User Type 1):
+> Sandy Liu, a 21-year-old college student who always forgot to drink water but values hydration.
+
+**Goals and Needs**
+- Needs notifications that serve as gentle reminders rather than a forcing behavior, because she like to maintain a sense of autonomy.
+- Hopes for a seamless verification system using NFC tags; for example, tapping her phone against an NFC sticker on her water bottle to automatically validate that she drank water.
+- Wants to see friends’ progress on a leaderboard to feel motivated by a community.
+- Needs the ability to customize her own pace and quantity
+
+**Problems and Frustrations**
+- Often simply forgets to drink water because she is hyper-focused on schoolwork.
+- Frustrated by some apps that are too pushy and complicated to use, which causes her to disengage.
+- Found some apps are too easy to manually click "complete" without doing the task, just like the "snooze" button. (Relates to the NFC sticker tap functionality)
+- Annoyed by some apps that send too many notifications that are unrelated to keeping up her habits.
+
+#### Stakeholder 2 (User Type 2 / Supervisor):
+> Neil, a 31-year-old professional who wants to support his younger brother’s *6-pack work out plan*.
+
+**Goals and Needs**
+- Wants app for him and his brother to quickly check if each other is following their *6-pack plan* everyday.
+- Needs to know exactly how long a supervisee has been inactive, not to push the supervisee but just to know that information, because he thinks "being lazy" is reasonable as schoolwork can be overwhelming sometimes for his brother.
+- Needs to be able to switch between his own habit tracking interface and his supervisor dashboard without annoying logging out.
+- He wants a system that requires proof to avoid arguments.
+- prefer that the app allows to leave supporting comments in each log to keep supervisees feel motivated.
+
+**Problems and Frustrations**
+- Usually cannot go to the gym with his brother because of working but still wants a quick way to check in his little brother.
+- Finds it hard to stay objective when a user claims they did a habit.
+- Annoyed by apps that don't separate "My Habits" from "People I Supervise", leading to confusion.
+- Worried about his and his little brother's data privacy when some apps ask for taking photos.
 
 ## Product Vision Statement
 
