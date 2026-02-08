@@ -12,7 +12,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 [James Zheng](https://github.com/hyperjasm)
 
-[Example Name](https://github.com/example-username)
+[Sarya Sadi](https://github.com/saryassadi)
 
 ## Stakeholders
 
