@@ -65,7 +65,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our product is a mobile application that enables users to easily submit requests, track progress, and communicate in real time, while allowing supervisors and administrators to efficiently review, manage, and resolve those requests through a structured and transparent workflow.
 
 ## User Requirements
 
@@ -77,4 +77,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Ourclickable prototype.](https://www.figma.com/proto/KRwNA0Iqkzp2W7oTEL9o3E/Geckos?node-id=2-3&p=f&t=zOupqO0qKR9XrF81-1&scaling=scale-down&content-scaling=fixed&page-id=2%3A2&starting-point-node-id=2%3A3)
