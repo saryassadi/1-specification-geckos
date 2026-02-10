@@ -77,4 +77,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-[Ourclickable prototype.](https://www.figma.com/proto/KRwNA0Iqkzp2W7oTEL9o3E/Geckos?node-id=2-3&p=f&t=zOupqO0qKR9XrF81-1&scaling=scale-down&content-scaling=fixed&page-id=2%3A2&starting-point-node-id=2%3A3)
+[Our Clickable Prototype.](https://www.figma.com/proto/KRwNA0Iqkzp2W7oTEL9o3E/Geckos?node-id=2-3&p=f&t=zOupqO0qKR9XrF81-1&scaling=scale-down&content-scaling=fixed&page-id=2%3A2&starting-point-node-id=2%3A3)
